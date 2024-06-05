@@ -12,7 +12,7 @@ XP_VERSION="v1.0.6"
 
 API_URL="https://api.xp.cn"
 
-DOWNLOAD_URL="https://update.130600.xyz/dl/xp/xp-panel.tar.gz"
+DOWNLOAD_URL="https://xpmirror.clamowo8688.workers.dev/dl/xp/xp-panel.tar.gz"
 
 current_dir=$(pwd)
 INSTALL_LOG_PATH="${current_dir}/xp-install.log"
